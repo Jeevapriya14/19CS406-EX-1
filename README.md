@@ -60,9 +60,12 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 
-OUTPUT:
-![STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL](https://github.com/Jeevapriya14/19CS406-EX-1/assets/121003043/e893dc48-9c9e-446e-a040-fb60570e3043
+CLIENT OUTPUT:
+![STUDY OF SOCKET PROGRAMMING WITH CLIENT MODEL](https://github.com/Jeevapriya14/19CS406-EX-1/assets/121003043/e893dc48-9c9e-446e-a040-fb60570e3043
 )
+SERVER OUTPUT:
+![STUDY OF SOCKET PROGRAMMING WITH SERVER MODEL](https://github.com/Jeevapriya14/19CS406-EX-1/assets/121003043/92fa82e3-7c85-4dbf-a20b-bf45c4c5b70e)
+
 
 RESULT:
     Thus, the program to implement socket programming date and time display from client to server using TCP Sockets was successfully executed.
